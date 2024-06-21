@@ -1,0 +1,7 @@
+pandas
+pypdf
+pdfplumber
+python-docx
+flask
+openpyxl
+llama-index==0.9.47
